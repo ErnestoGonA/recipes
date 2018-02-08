@@ -1,0 +1,10 @@
+Ingredients:
+    -Milk
+    -Cereal
+
+Directions:
+    1. Put in a bowl the prefered ammount of cereal for you
+
+    2. Add milk
+
+    3. Enjoy it
